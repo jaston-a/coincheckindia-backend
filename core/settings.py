@@ -103,7 +103,7 @@ CLOUDINARY_STORAGE = {
     'API_SECRET': os.environ.get('CLOUDINARY_API_SECRET'),
 }
 
-# Storage Settings for Django 4.2+ / 5.0+ (Replaced old format)
+# Storage Settings for Django 5.x
 STORAGES = {
     "default": {
         "BACKEND": "cloudinary_storage.storage.MediaCloudinaryStorage",
@@ -112,3 +112,6 @@ STORAGES = {
         "BACKEND": "django.contrib.staticfiles.storage.StaticFilesStorage",
     },
 }
+
+# Compatibility fallback for django-cloudinary-storage collectstatic bug
+STATICFILES_STORAGE = 'django.contrib.staticfiles.storage.StaticFilesStorage'
