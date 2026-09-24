@@ -1,0 +1,256 @@
+[
+    {
+        "id": 12,
+        "name": "1/4 ANNA",
+        "slug": "14-anna",
+        "item_type": "coin",
+        "variants": [
+            {
+                "id": 4,
+                "title": "1/4 Anna 1939 2nd/Mature Head Variety - Higher Grade (UNC)",
+                "year": 1939,
+                "mint_mark": "Mumbai (Diamond) - Small dot under neck on obverse + Small diamond below 1939 on reverse",
+                "rarity": "Rare",
+                "estimated_value": "₹5500-₹6999",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-22_at_10.46.25_PM.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/20x13_6000px_300DPI_2qHXy3M.jpg",
+                "description": "1939 1/4 Anna 2nd/Mature Head variety with Mumbai diamond mint mark.\r\n\r\nWeight: 4.72g\r\nMetal: Bronze\r\nDiameter: 25.4mm\r\nEdge: Plain\r\n\r\nObverse: GEORGE VI KING EMPEROR 1939 - Mature head with thick crown leaves (2nd head diagnostic)\r\nReverse: ONE QUARTER ANNA INDIA 1939 with floral wreath, small diamond mint mark below date.\r\n\r\nKey Feature: Thick crown leaves in mature head, diamond mint mark visible below 1939 on reverse.",
+                "created_at": "2026-09-22T17:18:45.188364Z",
+                "category": 12
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "2 ANNAS",
+        "slug": "2-annas",
+        "item_type": "coin",
+        "variants": [
+            {
+                "id": 5,
+                "title": "2 Annas - 1955 Bull Design. The Final Year Before The Naya Paisa Switch. Top Republic Rarity.",
+                "year": 1955,
+                "mint_mark": "Bombay (Diamond/Dot) - Small dot below date 1955 + Hyderabad (Star) - Star below Government of India",
+                "rarity": "Rare",
+                "estimated_value": "₹5,000 - ₹15,000 (Strictly UNC)",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-22_at_11.02.58_PMa.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/WhatsApp_Image_2026-09-22_at_11.02.58_PM.jpg",
+                "description": "Bull / Zebu design. Square with curved corners. Final issue of Anna series. Copper-Nickel, 5.70g, 25.80mm. Top Republic rarity in UNC condition.",
+                "created_at": "2026-09-22T17:39:41.607821Z",
+                "category": 13
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "5 PAISE",
+        "slug": "5-paise",
+        "item_type": "coin",
+        "variants": [
+            {
+                "id": 6,
+                "title": "5 Paise – 1957 (Naye Paise) Broad-Strike Error - Irregular Shape, Stretched Design - RARE & VALUABLE",
+                "year": 1957,
+                "mint_mark": "Bombay (Diamond) - Broad-Strike Error (No Collar Strike)",
+                "rarity": "Extremely Rare",
+                "estimated_value": "₹2,000+ (For Broad-Strike Error Only)",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-22_at_11.15.25_PM.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/WhatsApp_Image_2026-09-22_at_11.15.25ds_PM.jpg",
+                "description": "1957 5 Naye Paise – Broad-Strike Error. Irregular shape, stretched design. First decimal transition year. RARE & VALUABLE. Coin struck outside collar, metal spread outside.",
+                "created_at": "2026-09-22T17:50:36.382462Z",
+                "category": 14
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "25 PAISE",
+        "slug": "25-paise",
+        "item_type": "coin",
+        "variants": [
+            {
+                "id": 7,
+                "title": "1984 25 Paise – Hyderabad Mint (STAR Mark) – Rare Key Date",
+                "year": 1984,
+                "mint_mark": "Hyderabad - STAR (★) - Star below 1984, between wreath bottom",
+                "rarity": "Rare",
+                "estimated_value": "₹2,500 – ₹6,000 (Fine to UNC condition)",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-22_at_11.33.14_PM.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/WhatsApp_Image_2026-09-22_at_11.34.49_PM.jpg",
+                "description": "25 Paisa – 1984 (Star Mark) – Hyderabad Mint. \r\n\r\nKey diagnostic: Must have a STAR mark (Hyderabad Mint) under the year. Check below 1984, center of wreath where both branches meet – small raised 5-pointed star must be present. \r\n\r\nBombay mint has small dot • and Calcutta has no mark – those are common coins. Only Hyderabad Star is rare and valuable.\r\n\r\nMaterial: Copper-Nickel, Weight: 2.83g, Size: 19mm.\r\n\r\nThis is original Hyderabad Star mint coin, natural worn condition, collector grade.",
+                "created_at": "2026-09-22T18:09:13.793115Z",
+                "category": 15
+            },
+            {
+                "id": 8,
+                "title": "1980 25 Paise - Rural Women's Advancement (FAO) - Commemorative Coin - Bombay Mint",
+                "year": 1980,
+                "mint_mark": "Bombay Mint",
+                "rarity": "Scarce",
+                "estimated_value": "Bombay Mint : ₹500 – ₹1,200 (Strictly UNC)",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-22_at_11.44.34_PM.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/WhatsApp_Image_2026-09-22_at_11.45.46_PM.jpg",
+                "description": "25 Paisa – 1980 (FAO) – \"Rural Women's Advancement\" Commemorative Issue.\r\n\r\nObverse: Ashoka Lion Capital with BHARAT / INDIA and 25 PAISE.\r\n\r\nReverse: Rural woman working with chaff cutter machine, village hut in background, legend \"RURAL WOMEN'S ADVANCEMENT\" in English and Hindi \"Mahilaon Ke Liye Gramin Pragati\" and year 1980 at bottom.\r\n\r\nMint: Bombay Mint – below year (Visible in image). Calcutta (No mark) and Hyderabad (Star) also exist for this year. All three mints can reach ₹100 to ₹1,500 in good condition.\r\n\r\nThis is a genuine 1980 FAO commemorative coin, highly collectible – first coin dedicated to Rural Women in India. Scalloped edge with 8 notches.\r\n\r\nMaterial: Copper-Nickel, Weight: 2.83g, Diameter: 19mm.\r\n\r\nNote: Value depends on mint and condition. UNC coins fetch premium.",
+                "created_at": "2026-09-22T18:21:57.739620Z",
+                "category": 15
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "50 NAYE PAISE",
+        "slug": "50-naye-paise",
+        "item_type": "coin",
+        "variants": [
+            {
+                "id": 9,
+                "title": "1959 50 Naye Paise – Bombay Mint (DIAMOND Mark) – Early Decimal Key Date",
+                "year": 1959,
+                "mint_mark": "Bombay – DIAMOND (♦) – Below 1959, at wreath bottom center",
+                "rarity": "Extremely Rare",
+                "estimated_value": "₹1,500 – ₹4,000 (Crisp & Clean condition)",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-23_at_12.13.58_AM.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/WhatsApp_Image_2026-09-23_at_12.15.07_AM.jpg",
+                "description": "50 Naye Paise – 1959 – Bombay Mint DIAMOND Mark.\r\n\r\nEarly decimal transition key date – First years of \"Naye Paise\" system (1957-1963). From 1964 onwards called \"Paise\" only, so \"Naye\" coins are special collector items.\r\n\r\nDiagnostics: Must have DIAMOND mark ♦ below year 1959 at bottom center where wreath meets. Bombay Mint Diamond is the key identifier for this date.\r\n\r\nObverse: Ashoka Lion Capital with BHARAT / INDIA.\r\nReverse: 50 in large numerals, \"NAYE PAISE\" in Hindi, year 1959, laurel wreath border.\r\n\r\nMaterial: Copper-Nickel, Weight: 5.00g, Diameter: 24mm, Shape: Round.\r\n\r\nCondition: Needs to be crisp and clean for premium value. This coin in image is natural worn but clear Diamond mark visible – collectible grade.\r\n\r\nNote: 1959 Bombay Diamond is much scarcer than Calcutta No Mark. True collector key date.",
+                "created_at": "2026-09-22T18:50:20.808540Z",
+                "category": 16
+            },
+            {
+                "id": 10,
+                "title": "1988 50 Paise – Noida Mint DOT – Rare Key Date",
+                "year": 1988,
+                "mint_mark": "Noida – DOT ( • ) – Below Year 1988 – BIG DOT type Key diagnostic: Must have DOT below 1988",
+                "rarity": "Rare",
+                "estimated_value": "₹2,000 – ₹6,000+ (VF to UNC)",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-23_at_12.24.00_AM.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/WhatsApp_Image_2026-09-23_at_12.25.03_AM.jpg",
+                "description": "Fifty paise 1988 Noida mint dot – Rare variety.\r\n\r\nObverse: Ashoka Lion with INDIA / BHARAT.\r\nReverse: 50 PAISE, floral pattern border, year 1988 with Noida DOT mark below year (single dot with extra dot spacing – Noida diagnostic).\r\n\r\nNoida mint started 1986, so early years 1986-88 are scarce. 1988 Noida dot is one of the most demanded in 50 paise series.\r\n\r\nMaterial: Copper-Nickel, Weight: 4.90g.\r\n\r\nNote: This is Noida mint – DOT must be visible below 1988 as in image. Bombay is small diamond/dot in different style. Noida DOT is larger and separated.",
+                "created_at": "2026-09-22T18:58:39.777350Z",
+                "category": 16
+            },
+            {
+                "id": 11,
+                "title": "1986 50 Paise – Bombay Mint – Extremely Rare",
+                "year": 1986,
+                "mint_mark": "Bombay – DOT below 1986 (Small DOT)",
+                "rarity": "Extremely Rare",
+                "estimated_value": "₹3,000 – ₹10,000+ (depends on condition)",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-23_at_12.31.22_AM.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/WhatsApp_Image_2026-09-23_at_12.33.07_AM.jpg",
+                "description": "Buy Extremely Rare 50 Paisa 1986 Bombay Mint.\r\n\r\nYear: 1986 – First year of new floral design 50 Paise.\r\nMint: Bombay (Dot below year)\r\nMaterial: Copper-Nickel.\r\n\r\nWhy Rare: 1986 Mumbai mintage was very low, and most went into circulation. Finding in good condition is extremely tough. Key date for 50 Paise collectors.\r\n\r\nObverse will be Lion capital with INDIA / BHARAT.\r\n\r\nCondition as in image – collectible grade, clear year and mint mark visible.",
+                "created_at": "2026-09-22T19:06:04.906439Z",
+                "category": 16
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "1 RUPEE",
+        "slug": "1-rupee",
+        "item_type": "coin",
+        "variants": [
+            {
+                "id": 12,
+                "title": "1970 1 Rupee – Bombay Mint – The King of Republic Rupees – 10 Gram Nickel",
+                "year": 1970,
+                "mint_mark": "Bombay – Diamond mark",
+                "rarity": "Rare",
+                "estimated_value": "₹8,000 – ₹20,000 depending on condition",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-23_at_8.57.18_AM.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/WhatsApp_Image_2026-09-23_at_8.57.58_AM.jpg",
+                "description": "Must be the heavy 10-Gram Pure Nickel coin. This is the large, heavy, pure nickel issue which is highly valuable. Later 1970s rupees are lighter (6-gram)",
+                "created_at": "2026-09-23T03:32:23.556593Z",
+                "category": 17
+            },
+            {
+                "id": 13,
+                "title": "1985 1 Rupee ERROR – No Mint Mark – Rare Trial / Error Issue",
+                "year": 1985,
+                "mint_mark": "Error – NO mint mark below year (Missing Mark)",
+                "rarity": "Rare",
+                "estimated_value": "Valuable ONLY in ERROR variety",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-23_at_9.16.56_AM.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/WhatsApp_Image_2026-09-23_at_9.14.17_AM.jpg",
+                "description": "Obverse: Ashoka Lion Capital with BHARAT / INDIA.\r\nReverse: 1 RUPEE 1985 with wheat stalks – BUT NO mint mark.\r\n\r\nCondition: As per image – Year 1985 clearly visible with no mark below.\r\n\r\nNote: This is a mint error, not a regular issue. One of the most famous error coins in Republic India series.\r\n\r\nValue Range: ₹2,000 – ₹5,000 (Trial/Error Only) – UNC can go higher\r\n\r\nKey Diagnostic: BLANK space below 1985 – No Dot, No Diamond, No Star.",
+                "created_at": "2026-09-23T03:50:00.726614Z",
+                "category": 17
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "2 RUPEE",
+        "slug": "2-rupee",
+        "item_type": "coin",
+        "variants": [
+            {
+                "id": 14,
+                "title": "1992 2 Rupees FAO – Land & Vital Resources – Proof Only – Never Issued to Public – Super Rare",
+                "year": 1992,
+                "mint_mark": "-",
+                "rarity": "Extremely Rare",
+                "estimated_value": "₹60,000 +",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-23_at_9.26.39_AM.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/WhatsApp_Image_2026-09-23_at_9.27.36_AM.jpg",
+                "description": "This coin was NEVER found in loose pocket change. It was only issued in the 1992 Certified Proof Set. If someone claims to have found it in circulation, it is FAKE. Only Proof Set coin is genuine and valuable. Design: FAO theme with Land & Vital Resources.",
+                "created_at": "2026-09-23T04:00:35.273984Z",
+                "category": 18
+            },
+            {
+                "id": 15,
+                "title": "1998 2 Rupees Deshbandhu Chittaranjan Das – Hyderabad STAR Mark – Rare Commemorative",
+                "year": 1998,
+                "mint_mark": "Hyderabad STAR Mark",
+                "rarity": "Scarce",
+                "estimated_value": "₹500 – ₹1,500",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-23_at_9.34.42_AM.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/WhatsApp_Image_2026-09-23_at_9.35.48_AM.jpg",
+                "description": "Year: 1998\r\nTheme: Deshbandhu Chittaranjan Das Birth Anniversary – Commemorative Issue.\r\nRarity: Scarce – Only Hyderabad STAR Mark is Valuable\r\n\r\nKey Identification Details: Must have a STAR mark (Hyderabad Mint) below the year. Bombay / Calcutta mint is common. Only STAR mark is rare and fetches high value. Portrait of Deshbandhu Chittaranjan Das on reverse.\r\n\r\nMaterial: Copper-Nickel\r\nWeight: 6 Grams\r\nDiameter: 26mm – 11 Sided",
+                "created_at": "2026-09-23T04:10:19.457306Z",
+                "category": 18
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "5 RUPEE",
+        "slug": "5-rupee",
+        "item_type": "coin",
+        "variants": [
+            {
+                "id": 16,
+                "title": "1996 5 Rupees 2nd International Crop Science Congress – Calcutta First Strike – Extremely Rare – KM",
+                "year": 1996,
+                "mint_mark": "Mint: Calcutta (Kolkata) Mint – Identified by the absence of a mint mark below the year.",
+                "rarity": "Extremely Rare",
+                "estimated_value": "₹42,000 – ₹59,000",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-23_at_9.43.03_AM.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/WhatsApp_Image_2026-09-23_at_9.44.30_AM.jpg",
+                "description": "Composition: Copper-Nickel\r\nWeight: Approx. 8.85g – 8.92g\r\nDiameter: Approx. 23.00mm – 23.10mm\r\nMint: Calcutta (Kolkata) Mint – Identified by the absence of a mint mark below the year.\r\nCatalog Reference: KM #160\r\nTheme: 2nd International Crop Science Congress – New Delhi 1996",
+                "created_at": "2026-09-23T04:17:56.111850Z",
+                "category": 19
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "10 RUPEE",
+        "slug": "10-rupee",
+        "item_type": "coin",
+        "variants": [
+            {
+                "id": 17,
+                "title": "1970 10 Rupees Food For All FAO – 80% Silver – Sun Lotus Grain – First 10 Rupees – KM #185",
+                "year": 1970,
+                "mint_mark": "Bombay Mint (Diamond Mark)",
+                "rarity": "Rare",
+                "estimated_value": "₹6,400 – ₹7,500",
+                "front_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/front/WhatsApp_Image_2026-09-23_at_9.52.32_AM.jpg",
+                "back_image": "https://res.cloudinary.com/rdoe48ya/image/upload/v1/media/coins/back/WhatsApp_Image_2026-09-23_at_9.53.20_AM.jpg",
+                "description": "eatures the Ashoka Lion Capital pedestal with denomination below and bilingual legends BHARAT / INDIA 10 RUPEES.\r\nReverse: Displays a rising sun above a floating lotus flower flanked by wheat grains – “FOOD FOR ALL” – “सब के लिए अन्न” – Year 1970 – Sun Lotus Grain Design.\r\n\r\nRarity Factor: First Ever 10 Rupees Commemorative Issued by India – Large 34mm Silver – FAO Historical Issue – Collector Favorite.",
+                "created_at": "2026-09-23T04:26:41.484263Z",
+                "category": 20
+            }
+        ]
+    }
+]
