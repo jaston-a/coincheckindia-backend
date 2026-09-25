@@ -113,5 +113,8 @@ STORAGES = {
     },
 }
 
+# THE FIX: Backward compatibility for older Django versions to force Cloudinary
+DEFAULT_FILE_STORAGE = 'cloudinary_storage.storage.MediaCloudinaryStorage'
+
 # Compatibility fallback for django-cloudinary-storage collectstatic bug
 STATICFILES_STORAGE = 'django.contrib.staticfiles.storage.StaticFilesStorage'
