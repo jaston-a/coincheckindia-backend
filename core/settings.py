@@ -63,7 +63,7 @@ WSGI_APPLICATION = 'core.wsgi.application'
 # Permanent PostgreSQL database config for Render (falls back to sqlite locally)
 DATABASES = {
     'default': dj_database_url.config(
-        default=f"sqlite:///{BASE_DIR / 'db.sqlite3'}",
+        default='sqlite:///' + str(BASE_DIR / 'db.sqlite3'),
         conn_max_age=600
     )
 }
